@@ -1,4 +1,4 @@
-
+name = input("Name: ")
 birth_year = int(input("birth year: "))
 password = input("password: ")
 age = 2026 - birth_year
